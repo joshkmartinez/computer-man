@@ -1,0 +1,9 @@
+{
+  "name": "Computer Man",
+  "alias": ["iAmTheComputerMan", "computerMan", "computer"],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
